@@ -1,7 +1,7 @@
 # MusicXmlToSessionBand   
 use XSLT 1.0 to convert MusicXML files to SessionBand (Jazz) formats (beta)
 
-Will need an XSLT interpreter or platform to launch the XSLT files.  One may or should be built into Windows (will add more notes as I delve into this again.)
+Will need an XSLT interpreter or platform to launch the XSLT files.  One may or should be built into Windows (will add more notes as I delve into this again.  An open source XSLT 3.0 processor is available here: http://saxon.sourceforge.net.)
 
 The only files I have tested with are MusicXML files as exported from iReal Pro app on iOS, circa mid-2015.
 
